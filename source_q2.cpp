@@ -1,9 +1,9 @@
-/*  Midterm2
+/*  
  * 
  * Filename:    source_q2.cpp
  * Purpose:     Hexadecimal Addition
  * Author:      Colton Wilson
- * Student ID:  106-65-4060
+ * 
  * 
  * 
  * Created on November 24, 2020, 1:31 PM
